@@ -1,0 +1,10 @@
+{
+  "name":"Bright Vision Digital Design",
+  "short_name":"Bright Vision",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#111111",
+  "theme_color":"#111111",
+  "description":"Professional web development, graphic design and promotional video services by Bright Vision Digital Design.",
+  "icons":[]
+}
